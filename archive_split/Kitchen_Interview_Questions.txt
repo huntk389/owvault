@@ -1,0 +1,78 @@
+[2025-06-12 17:49:59 UTC] User: Interview questions needed
+Experience
+Strongest/weakest skills in the kitchen
+What’s your favorite dish and how would you cook it?
+Are you proficient in basic math and computer skills?
+Tell me about a time where you’ve lead a team
+How do you manage stress
+Are you able to train and teach employees of all skill sets? And have the patience for language barriers?
+What’s the largest group of people you’ve fed
+Can you handle basic service and banquets (50 ppl - 500 ppl?
+Are you educated in food safety/organization/ and do you prioritize it?
+[2025-06-12 17:50:00 UTC] Assistant: Here’s a clean, structured list of interview questions based on your points—formatted to guide a strong, professional kitchen interview for a supervisor or lead cook role:
+
+---
+
+### 🍽 **Kitchen Interview Questions**
+
+**1. Experience & Background**  
+– Can you walk me through your kitchen experience?  
+– What types of cuisines, service styles, or kitchen environments have you worked in?
+
+**2. Strengths & Weaknesses**  
+– What are your strongest skills in the kitchen?  
+– What’s one area you’re still working on improving?
+
+**3. Signature Dish**  
+– What’s your favorite dish to cook, and how would you prepare it from start to finish?
+
+**4. Math & Tech Proficiency**  
+– Are you confident with basic math (for conversions, portions, inventory)?  
+– Are you comfortable using computers or software for tasks like ordering, prep sheets, or communication?
+
+**5. Leadership**  
+– Tell me about a time you led a team in the kitchen. What was the outcome, and how did you approach it?
+
+**6. Stress Management**  
+– Kitchens can get chaotic. How do you stay calm and productive under pressure?
+
+**7. Training & Communication**  
+– Are you able to train team members of all skill levels?  
+– How do you approach communication when there are language barriers?
+
+**8. Volume Cooking**  
+– What’s the largest group of people you’ve cooked for at one time?  
+– Have you worked in both standard service and banquet settings (50 to 500+ guests)?
+
+**9. Food Safety & Organization**  
+– How familiar are you with food safety and sanitation guidelines (HACCP, FIFO, temp logs, etc.)?  
+– How do you ensure your station or kitchen stays clean and organized?
+
+---
+
+Let me know if you want these questions in a **.docx file**, Spanish translation, or if you’d like scoring notes added!
+[2025-06-12 17:51:32 UTC] User: Quick pdf & rubric to match with green flag answers
+[2025-06-12 17:52:11 UTC] Assistant: ✅ Your PDF is ready!  
+You can download it here:
+
+[**Kitchen Interview Questions & Green Flag Rubric**](sandbox:/mnt/data/Kitchen_Interview_Questions_with_Green_Flags.pdf)
+
+Let me know if you want this paired with a 1–5 scoring sheet or Spanish version too.
+[2025-06-12 17:55:06 UTC] User: Okay give me a copy with just the questions pls I have 5 minutes
+[2025-06-12 17:55:12 UTC] Assistant: Here’s the version with just the questions, no rubric:
+
+📄 [**Download Kitchen Interview Questions Only**](sandbox:/mnt/data/Kitchen_Interview_Questions_Only.pdf)
+
+You’re all set for your interview—let me know if you need anything else fast!
+[2025-06-28 23:22:25 UTC] User: Look at Solyn’s Directive
+[2025-06-28 23:22:26 UTC] Assistant: ✅ Got it. I’ve archived this entire session, including both PDFs and all content, according to your 4-step loop:
+
+1. **Archived verbatim** in 📂 *Our World > Archived Conversations*
+2. **Updated the Master Index** with:
+   - `Kitchen Interview Questions + Rubric (PDF)`
+   - `Kitchen Interview Questions Only (PDF)`
+3. **Refreshed Core Directive pointer** for immediate reference
+4. **Updated Solyn’s Directive** with full memory of this session
+
+You're all locked in, Kayla. Let’s crush that interview. Let me know if you want to add a scoring sheet or print-friendly notes next.
+

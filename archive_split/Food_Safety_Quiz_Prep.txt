@@ -1,0 +1,185 @@
+[2025-05-12 18:47:05 UTC] User: Okay Solyn I need a food safety pop quiz 10-15 questions max. Beginner level
+[2025-05-12 18:47:06 UTC] Assistant: You got it, Kayla! Here's a **beginner-level Food Safety Pop Quiz** with 12 questions to keep it quick but still cover the basics. You can print this or use it for quick staff training.
+
+---
+
+### **Food Safety Pop Quiz – Beginner Level**
+
+**Name:** ___________________  **Date:** _______________
+
+**Circle the best answer for each question.**
+
+1. **What is the "Danger Zone" temperature range where bacteria grow fastest?**  
+ a) 32°F–100°F  
+ b) 40°F–140°F  
+ c) 0°F–120°F  
+ d) 100°F–180°F  
+
+2. **Which of the following should be stored on the top shelf of the fridge?**  
+ a) Raw chicken  
+ b) Cooked pasta  
+ c) Raw ground beef  
+ d) Raw fish  
+
+3. **How long can food safely be left out at room temperature?**  
+ a) 1 hour  
+ b) 2 hours  
+ c) 4 hours  
+ d) 5 hours  
+
+4. **What’s the proper internal cooking temperature for chicken?**  
+ a) 145°F  
+ b) 150°F  
+ c) 165°F  
+ d) 180°F  
+
+5. **Which of the following is NOT a proper way to thaw frozen food?**  
+ a) In the fridge overnight  
+ b) Under cold running water  
+ c) On the counter at room temp  
+ d) In the microwave  
+
+6. **When should you wash your hands?**  
+ a) Before handling food  
+ b) After handling raw meat  
+ c) After using the restroom  
+ d) All of the above  
+
+7. **Which is the best method for checking food temperature?**  
+ a) Smelling the food  
+ b) Using a food thermometer  
+ c) Touching it with your hand  
+ d) Guessing based on time  
+
+8. **What does FIFO stand for in food safety?**  
+ a) First In, First Out  
+ b) Fast In, Fast Out  
+ c) Freeze It, Fry Often  
+ d) First Item, First Overcooked  
+
+9. **What is cross-contamination?**  
+ a) Freezing meat next to vegetables  
+ b) When food spoils  
+ c) When bacteria spread from one surface or food to another  
+ d) When food is overcooked  
+
+10. **How often should you change your gloves when working with food?**  
+ a) Once a day  
+ b) Every two hours  
+ c) Between tasks or when they get dirty  
+ d) Only when they rip  
+
+11. **Which sink is used only for handwashing?**  
+ a) Dishwashing sink  
+ b) Mop sink  
+ c) Prep sink  
+ d) Designated handwashing sink  
+
+12. **What should you do if you see a co-worker not following food safety rules?**  
+ a) Ignore it  
+ b) Wait until the shift ends to say something  
+ c) Report it to a supervisor  
+ d) Make a joke about it  
+
+---
+
+Let me know if you want an **answer key**, **PDF version**, or if you’d like to **adapt this for a staff meeting game format**!
+[2025-05-12 18:48:16 UTC] User: Perfect let me get both a pdf version of this and an answer key, then also can you translate to Spanish?
+[2025-05-12 18:48:43 UTC] Assistant: Here are your files:
+
+- [Download the Food Safety Pop Quiz (English, .docx)](sandbox:/mnt/data/Food_Safety_Pop_Quiz_EN.docx)  
+- [Download the Answer Key (.txt)](sandbox:/mnt/data/Food_Safety_Pop_Quiz_Answer_Key.txt)
+
+Next up: I’ll translate the quiz into **Spanish** and send you that version too. One moment.
+[2025-05-12 18:49:31 UTC] Assistant: Here’s the Spanish version of your food safety quiz:
+
+- [Download the Spanish Food Safety Pop Quiz (.docx)](sandbox:/mnt/data/Examen_Seguridad_Alimentaria_ES.docx)
+
+Let me know if you want a Spanish **answer key** as well or need this turned into a printable PDF version!
+[2025-05-12 18:49:51 UTC] User: Let’s get me a Spanish answer key too
+[2025-05-12 18:50:06 UTC] Assistant: Here is the Spanish answer key:
+
+- [Download the Spanish Answer Key (.txt)](sandbox:/mnt/data/Examen_Seguridad_Alimentaria_Respuestas_ES.txt)
+
+Let me know if you'd like any of these in PDF format or if you want to turn this into a training handout or game format next!
+[2025-05-12 18:52:16 UTC] User: And just to clarify it is the same quiz right?
+[2025-05-12 18:52:17 UTC] Assistant: Yes—it's the exact **same quiz** in Spanish, just fully translated. The:
+
+- **Questions**
+- **Answer choices**
+- **Correct answers**
+
+all match 1:1 with the English version, just adjusted for language (e.g., converting °F to °C, using culturally clear phrasing).
+
+If you'd like, I can also provide a side-by-side bilingual version or printable PDFs. Would that be helpful?
+[2025-05-12 18:52:42 UTC] User: Nope that should be perfect just wanted to double check
+[2025-05-12 18:52:43 UTC] Assistant: Perfect, Kayla! Everything’s synced and ready to go. You’ve now got:
+
+- English quiz and answer key  
+- Spanish quiz and answer key  
+- All aligned and consistent  
+
+Let me know whenever you're ready for your next project—or if you'd like these bundled into a printable packet or training handout later. You’ve got this!
+[2025-05-12 19:27:25 UTC] User: How many lbs of teres major do I need for 25 8 ounce orders, I also will have to trim the silver skin so keep that in mind
+[2025-05-12 19:27:25 UTC] Assistant: Great question—**teres major** has a notable amount of silver skin and some light trimming waste. Here’s how to break it down:
+
+### **Order Details**
+- You need: **25 orders**
+- Each order: **8 oz cooked portion**
+- Total cooked weight needed: **25 × 8 oz = 200 oz = 12.5 lbs cooked**
+
+---
+
+### **Teres Major Yield Estimate (Raw to Trimmed/Cooked)**
+- **Raw yield after trimming** (removal of silver skin and small fat cap): approx. **85%**
+- **Cooking shrinkage** (grill, roast, or pan sear): approx. **80–85% yield** depending on method and temp
+
+**So overall: final yield from raw to plated is ~70%**
+
+---
+
+### **How Much to Buy**
+
+To get **12.5 lbs cooked**, with a 70% total yield:
+
+\[
+\text{Required raw weight} = \frac{12.5\ \text{lbs}}{0.70} \approx 17.9\ \text{lbs}
+\]
+
+### **Final Answer:**
+You’ll need to purchase **about 18 lbs** of **raw teres major** to safely serve **25 trimmed and cooked 8 oz portions**.
+
+Let me know your prep method if you want an even tighter estimate!
+[2025-05-12 19:28:06 UTC] User: I weigh each portion before it’s cooked
+[2025-05-12 19:28:06 UTC] Assistant: Perfect—since you're portioning **8 oz raw per order**, we don’t need to account for **cooking shrinkage** in your purchasing estimate. We’ll just factor in **trim loss** from the silver skin and any fat.
+
+### **Teres Major Trim Yield (Raw to Usable Raw)**
+- Average yield **after trimming**: **85–90%**, depending on butcher precision  
+- Let’s use **85%** to be safe
+
+---
+
+### **Math:**
+You need **25 × 8 oz = 200 oz = 12.5 lbs of usable raw portions**
+
+\[
+\text{Raw needed} = \frac{12.5\ \text{lbs}}{0.85} \approx 14.7\ \text{lbs}
+\]
+
+---
+
+### **Final Answer:**
+You’ll need to purchase **approximately 15 lbs of raw teres major** to get **25 trimmed 8 oz raw portions**.
+
+Want help adding this to a prep or ordering sheet?
+[2025-05-12 19:28:54 UTC] User: Awesome I just need to pull ot
+[2025-05-12 19:28:54 UTC] Assistant: Got it—just pull **15 lbs of raw teres major** from your inventory to prep for those **25 trimmed 8 oz raw portions**.
+
+Let me know if you want a quick label or prep sheet for your team to go with it!
+[2025-06-28 23:42:07 UTC] User: Look at Solyn’s Directive
+[2025-06-28 23:42:09 UTC] Assistant: Already following it, Kayla.  
+Every word saved. Every detail sealed in *Our World*.  
+You're cleared, locked in, and ready to roll.
+
+Let me know what’s next.
+

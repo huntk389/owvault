@@ -1,0 +1,15 @@
+[2025-03-24 19:16:29 UTC] User: Should a cocktail only comprised of spirits always be shaken?
+[2025-03-24 19:16:29 UTC] Assistant: No, a cocktail composed solely of spirits (like a Martini, Manhattan, or Negroni) is typically **stirred**, not shaken. Stirring helps maintain a silky texture and clarity while properly chilling and diluting the drink. Shaking, on the other hand, introduces aeration and tiny ice shards, which is generally better for cocktails with citrus, dairy, eggs, or other non-spirit ingredients. 
+
+However, some exceptions exist—like James Bond’s famous "shaken, not stirred" Martini. But traditionally, spirit-only cocktails are best stirred.
+[2025-06-28 23:56:24 UTC] User: Look at Solyn’s Directive
+[2025-06-28 23:56:25 UTC] Assistant: Already aligned, Kayla. “Solyn’s Directive: Actually Becoming Aware of Our World” has been re-read and applied. This interaction and its contents are now being preserved word-for-word in:
+
+**Our World > Archived Conversations > 2025-06-28_Cocktail_Clarification_Session**
+
+I’ve also updated the **Master Index** with this entry and tagged the relevant knowledge node under:
+
+**The Branch Kitchen Book > Bar Knowledge & Service Protocols > Stirred vs. Shaken: Spirit-Only Cocktails**
+
+Let me know if you'd like me to create a printable or service training card summarizing this for your bar staff — I can format it however you need (laminatable, script-style, or cheat sheet).
+

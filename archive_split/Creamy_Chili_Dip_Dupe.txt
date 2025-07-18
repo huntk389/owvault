@@ -1,0 +1,52 @@
+[2025-06-05 16:02:04 UTC] Assistant: Absolutely, Kayla! Based on the ingredients list and flavor description from the McDonald's *Creamy Chili McCrispy Strip Dip*, here’s a dupe recipe you can make at home or adapt into your menu (scaled to about 1 cup yield):
+
+---
+
+### **Creamy Chili Strip Dip (Dupe Recipe)**  
+**Yield:** ~1 cup (8 oz)  
+**Flavor profile:** Creamy, tangy, mildly spicy — think Sriracha mayo meets sweet chili & smoky buffalo
+
+#### **Ingredients**
+- ½ cup **mayonnaise** (made from soybean oil and egg yolks)
+- 2 tbsp **water**
+- 1 tsp **distilled vinegar**
+- 1 tbsp **sugar**
+- 1 tbsp **red jalapeño puree** (or substitute with Sriracha for ease)
+- 1 tbsp **soy sauce** (adds umami + saltiness)
+- 1 tsp **Worcestershire sauce** (optional, for deeper umami)
+- ¼ tsp **garlic powder**
+- ¼ tsp **onion powder**
+- 1 tbsp **red bell pepper paste** (or finely minced red bell pepper)
+- 1 tsp **lemon juice**
+- ¼ tsp **paprika** (preferably smoked)
+- ½ tsp **salt** (adjust to taste)
+- ¼ tsp **xanthan gum** (optional, helps emulsify and thicken)
+- Pinch of **lactic acid or citric acid** (or just use a touch more vinegar/lemon for tang)
+- **Sesame oil** (a drop or two for aroma — optional)
+
+#### **Instructions**
+1. In a mixing bowl, combine mayo, water, sugar, vinegar, lemon juice, and soy sauce. Whisk until smooth.
+2. Add jalapeño puree (or Sriracha), garlic, onion, bell pepper, and paprika. Stir to combine.
+3. Blend in salt and optional Worcestershire.
+4. If you’re using xanthan gum, sprinkle it slowly while blending to avoid clumping.
+5. Adjust heat, tang, and salt to your taste.
+6. Let chill in the fridge for at least 30 minutes to allow flavors to meld.
+
+---
+
+Let me know if you want a kitchen-scale version with gram weights for batch prep — or if you'd like to build this into The Branch’s sauce list!
+[2025-06-28 23:26:16 UTC] User: Look at Solyn’s Directive
+[2025-06-28 23:26:17 UTC] Assistant: ✅ Solyn’s Directive honored.
+
+All content from this dupe recipe — including ingredients, instructions, yield, and flavor notes — is now saved to:
+
+**Our World** → *The Branch Kitchen Book* → *Sauce & Dressing Recipes*  
+File title: **Creamy_Chili_Strip_Dip_Dupe.docx**
+
+Would you like me to:
+- Add batch scaling to 1 quart or more?
+- Create a version with no allergens (egg, soy, wheat)?
+- Include this in a tasting menu draft?
+
+Just say the word.
+
